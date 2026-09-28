@@ -13,8 +13,8 @@ El informe completo está en [`informe/Informe_MiniProyecto1.pdf`](informe/Infor
 
 ## Videos demo
 
-- **Actividad 1 - Zona Safari Pokémon:** [ver video](https://drive.google.com/file/d/1uHgIACqxAN-m45fNmJyUKUS833GZz1YD/view?usp=sharing)
-- **Actividad 2 - Consola de juegos retro:** [ver video](https://drive.google.com/file/d/18k35rzbek4Gp644-cZqPESFK62zvnou2/view?usp=sharing)
+- **Parte 1 - Zona Safari Pokémon:** [ver video](https://drive.google.com/file/d/1uHgIACqxAN-m45fNmJyUKUS833GZz1YD/view?usp=sharing)
+- **Parte 2 - Zona Safari Pokémon:** [ver video](https://drive.google.com/file/d/18k35rzbek4Gp644-cZqPESFK62zvnou2/view?usp=sharing)
 
 ## Actividad 1: Zona Safari Pokémon
 
