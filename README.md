@@ -9,7 +9,7 @@ Profesor: Vincenzo Caro Fuentes
 
 ## Informe
 
-El informe completo está en [`informe/Informe_MiniProyecto1.pdf`](informe/Informe_MiniProyecto1.pdf).
+El informe completo está en [`informe/Informe_MiniProyecto1.pdf`](Taller_de_Aplicación_TIC_1.pdf).
 
 ## Videos demo
 
